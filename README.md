@@ -34,7 +34,7 @@ kaggle_model.zip: contains original code of notebook, input files and this readm
         └── input                                       # input files folder (*.csv)
             ├── item_categories.csv                     # supplemental information about the items categories
             ├── items.csv                               # supplemental information about the items/products
-            ├── sales_train.csv                         # the training set. Daily historical data from January 2013 to October 2015
+            ├── sales_train.csv.gz                      # the training set. Daily historical data from January 2013 to October 2015
             ├── sample_submission.csv                   # a sample submission file in the correct format
             ├── shops.csv                               # upplemental information about the shops
             └── test.csv                                # the test set. You need to forecast the sales for these shops and products for November 2015
