@@ -20,7 +20,7 @@ This solution I liked because it keeps low RAM consume that with other solutions
 
 ### Score
 
-The public and private LB scores are: 0.919899 and 0.923187.
+The public and private LB scores are: 0.923076 and 0.925231.
 
 The solution is good already, but can be improvement.
 
