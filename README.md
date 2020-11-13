@@ -3,7 +3,7 @@
 This is the final project for [Coursera online course: "How to Win a Data Science Competition: Learn from Top Kagglers"](https://www.coursera.org/learn/competitive-data-science/). It is also a public challenge on the [Kaggle](https://www.kaggle.com/c/competitive-data-science-predict-future-sales) platform.
 
 
-If you run into any trouble with the setup/code or have any questions please contact me at [graig.luque@gmail.com](mailto:graig.luque@gmail).
+If you run into any trouble with the setup/code or have any questions please contact me at [graig.luque@gmail.com](mailto:graig.luque@gmail.com).
 
 
 ### Goal
