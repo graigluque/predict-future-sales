@@ -27,7 +27,19 @@ The solution is good already, but can be improvement.
 
 ### Archive Content
 
-kaggle_model.zip: contains original code, notebook file, input files, submission file, this readme file
+kaggle_model.zip: contains original code of notebook, input files and this readme file.
+    
+    .
+    ├── notebook                                        # notebook folder
+        └── input                                       # input files folder (*.csv)
+            ├── item_categories.csv                     # supplemental information about the items categories
+            ├── items.csv                               # supplemental information about the items/products
+            ├── sales_train.csv                         # the training set. Daily historical data from January 2013 to October 2015
+            ├── sample_submission.csv                   # a sample submission file in the correct format
+            ├── shops.csv                               # upplemental information about the shops
+            └── test.csv                                # the test set. You need to forecast the sales for these shops and products for November 2015
+        └── predicting-future-sales-xgboost.ipynb       # notebook file using xgboost (distributed gradient boosting) for predictions
+    └── README.md
 
 
 ### Hardward
@@ -37,14 +49,14 @@ This solution was run on a Kaggle Jupyter Notebook with 4 CPU cores, 16 GB RAM a
 
 ### Software
 
-Python 3.7.6
+Python 3.7.6.
 
 Python packages:
-numpy 1.18.5
-pandas 1.1.3
-seaborn 0.10.0
-sklearn 0.23.2
-xgboost 1.2.1
+* numpy 1.18.5
+* pandas 1.1.3
+* seaborn 0.10.0
+* sklearn 0.23.2
+* xgboost 1.2.1
 
 
 ### Model Build
