@@ -49,7 +49,7 @@ xgboost 1.2.1
 
 ### Model Build
 
-Very fast prediction without memory.
+Very fast prediction without memory issues:
 
     1) runs in almost an hour with a commodity hardware.
     
