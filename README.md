@@ -49,12 +49,17 @@ xgboost 1.2.1
 
 ### Model Build
 
-Very fast prediction without memory 
-    1) runs in almost an hour with a commodity hardware
-    2) uses distributed gradient boosting for predictions
-	3) configure input files path before run notebook
-	4) run [predicting-future-sales-xgboost.ipynb] notebook
-	5) get submission file in [$output_dir/xgb-submission.csv]
+Very fast prediction without memory.
+
+    1) runs in almost an hour with a commodity hardware.
+    
+    2) uses distributed gradient boosting for predictions.
+    
+    3) configure input files path before run notebook.
+    
+    4) run [predicting-future-sales-xgboost.ipynb] notebook.
+    
+    5) get submission file in [$output_dir/xgb-submission.csv].
 
 
 ### Next Steps
