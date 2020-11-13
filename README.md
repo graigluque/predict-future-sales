@@ -15,7 +15,7 @@ In this competition you will work with a challenging time-series dataset consist
 
 The feature engineering part is built on the notebook by [Denis Larionov: feature engineering, xgboost](https://www.kaggle.com/dlarionov/feature-engineering-xgboost), with optimization on the code of lag features and trend features.
 
-This solution I liked because it keeps low RAM consume that with other solutions I had problem with memeory error rises. Fortheremore using xgboost is used because generate a better LB score compared with other solutions like ensampling and NN that I had tested with performance issues in my notebook.
+This solution I liked because it keeps low RAM consume that with other solutions I had memory problems. Fortheremore using xgboost is used because generate a better LB score compared with other solutions like ensampling and NN that I had tested with performance issues in my notebook.
 
 
 ### Score
